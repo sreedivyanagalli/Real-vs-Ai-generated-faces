@@ -46,3 +46,6 @@ Metrics: Accuracy, Precision, Recall
    ```bash
    jupyter notebook real_vs_ai_face_classifier.ipynb
    ```
+
+-Skills-
+`Computer Vision`, `CNN`, `Image Classification`, `TensorFlow`, `Deep Learning`, `Fake Image Detection`, `Keras`, `Python`, `Binary Classifier`, `AI Ethics`
